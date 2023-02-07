@@ -1,4 +1,4 @@
-# Initiation à HTML
+# Exercices d'initiation à HTML
 
 https://www.codingame.com/playgrounds/35475/exercices-html/introduction
 
